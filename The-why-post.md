@@ -14,7 +14,7 @@ You don't have to be the person who already knows everything. You just have to b
 
 And if Git feels like a foreign language right now — I wrote that one for you too. Every command I use in the labs, broken down simply. No jargon for jargon's sake. Just what it does, why it matters, and where it fits.
 
-This space can feel enormous and overwhelming, especially if you're coming from a non-traditional background. I'm a veteran. I didn't walk a straight line into IT. There were a lot of moments where I didn't know if I was doing it right or if I even belonged here.
+This space can feel enormous and overwhelming, especially if you're coming from a non-traditional background. I was a Dental assistan for 8 years. I didn't walk a straight line into IT. There were a lot of moments where I didn't know if I was doing it right or if I even belonged here.
 
 You belong here. The learning curve is real, but it's not a wall — it's a path. And you don't have to figure it out alone.
 
@@ -22,4 +22,4 @@ Go build something. Document everything. Push it to GitHub. Then do it again.
 
 🔗 Lab Workflow & Methodology Repo: https://github.com/sammathaadams/lab-workflow-and-methodology
 
-#ITCareers #CyberSecurity #CloudComputing #Azure #ActiveDirectory #PowerShell #Git #CareerChange #Veterans #BreakIntoTech #HomeLabbing #Sysadmin #WomeninTech #KeepBuilding
+#ITCareers #CyberSecurity #CloudComputing #Azure #ActiveDirectory #PowerShell #Git #CareerChange  #BreakIntoTech #HomeLabbing #Sysadmin #WomeninTech #KeepBuilding
