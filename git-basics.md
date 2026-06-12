@@ -146,6 +146,8 @@ git remote add origin https://github.com/sammathaadams/active-directory-lab1.git
 
 **When to use it:** Once, after creating the repo on GitHub and before the first push.
 
+> ⚠️ **Before running this command**, create the repo on GitHub first at **github.com/new**. Leave it completely empty — no README, no .gitignore, no license. If GitHub auto-generates any files, the first push will fail with a conflict.
+
 ---
 
 ### `git push`
